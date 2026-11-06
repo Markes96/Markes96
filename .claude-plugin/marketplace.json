@@ -1,0 +1,11 @@
+{
+  "name": "markes96",
+  "owner": { "name": "Markes96" },
+  "plugins": [
+    {
+      "name": "mk96-projects",
+      "source": "./",
+      "description": "Clone, update and keep in sync the Markes96 ecosystem."
+    }
+  ]
+}

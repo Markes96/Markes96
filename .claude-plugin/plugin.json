@@ -1,0 +1,7 @@
+{
+  "name": "mk96-projects",
+  "version": "0.2.0",
+  "description": "Clone, update and keep in sync the Markes96 ecosystem: index repositories (mk96-<group>) and the projects of each mk96-<group> organization. Owner identity with the Markes96 account, guest mode for anyone else.",
+  "author": { "name": "Markes96" },
+  "keywords": ["git", "github", "clone", "workspace", "mk96"]
+}
