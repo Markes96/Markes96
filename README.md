@@ -7,16 +7,16 @@ Personal GitHub account. Every project lives in a themed organization (`mk96-<gr
 <!-- groups:start -->
 | Group | Index repository | Organization | What it holds |
 |---|---|---|---|
-| `ai` | [mk96-ai](https://github.com/Markes96/mk96-ai) | [mk96-ai](https://github.com/mk96-ai) | Artificial intelligence projects |
+| `ai` | [mk96-ai](https://github.com/Markes96/mk96-ai) | [mk96-ai](https://github.com/mk96-ai) | AI projects and Claude Code tools |
 | `api` | [mk96-api](https://github.com/Markes96/mk96-api) | [mk96-api](https://github.com/mk96-api) | APIs and backends |
-| `app` | [mk96-app](https://github.com/Markes96/mk96-app) | [mk96-app](https://github.com/mk96-app) | Desktop and system applications |
-| `bot` | [mk96-bot](https://github.com/Markes96/mk96-bot) | [mk96-bot](https://github.com/mk96-bot) | Bots |
+| `app` | [mk96-app](https://github.com/Markes96/mk96-app) | [mk96-app](https://github.com/mk96-app) | Desktop and tray apps |
+| `bot` | [mk96-bot](https://github.com/Markes96/mk96-bot) | [mk96-bot](https://github.com/mk96-bot) | Chat bots |
 | `docs` | [mk96-docs](https://github.com/Markes96/mk96-docs) | [mk96-docs](https://github.com/mk96-docs) | Documentation |
 | `game` | [mk96-game](https://github.com/Markes96/mk96-game) | [mk96-game](https://github.com/mk96-game) | Games |
-| `infra` | [mk96-infra](https://github.com/Markes96/mk96-infra) | [mk96-infra](https://github.com/mk96-infra) | Infrastructure, deployment and configuration |
+| `infra` | [mk96-infra](https://github.com/Markes96/mk96-infra) | [mk96-infra](https://github.com/mk96-infra) | Infrastructure and deployment |
 | `lab` | [mk96-lab](https://github.com/Markes96/mk96-lab) | [mk96-lab](https://github.com/mk96-lab) | Experiments and proofs of concept |
 | `lib` | [mk96-lib](https://github.com/Markes96/mk96-lib) | [mk96-lib](https://github.com/mk96-lib) | Reusable libraries |
-| `qa` | [mk96-qa](https://github.com/Markes96/mk96-qa) | [mk96-qa](https://github.com/mk96-qa) | Technical tests and Postman collections |
+| `qa` | [mk96-qa](https://github.com/Markes96/mk96-qa) | [mk96-qa](https://github.com/mk96-qa) | Technical tests and API collections |
 | `web` | [mk96-web](https://github.com/Markes96/mk96-web) | [mk96-web](https://github.com/mk96-web) | Websites |
 <!-- groups:end -->
 
